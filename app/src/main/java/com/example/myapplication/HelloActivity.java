@@ -8,8 +8,8 @@ import android.widget.TextView;
 
 public class HelloActivity extends AppCompatActivity {
 
-//abeer
-    
+    // abeer
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
